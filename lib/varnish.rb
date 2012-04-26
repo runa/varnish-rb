@@ -1,5 +1,5 @@
 module Varnish
-  LIBVARNISHAPI = 'libvarnishapi.1'
+  LIBVARNISHAPI = 'libvarnishapi.so.1'
 end
 
 require 'varnish/vsm'
